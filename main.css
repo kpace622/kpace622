@@ -1668,4 +1668,5 @@ input, select, textarea {
 			border: 1px solid white;
 			padding-top: 10px;
 			margin-bottom: 30px;
+			flex-flow:
 		}
